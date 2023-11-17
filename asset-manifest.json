@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neethusr.react.io/static/css/main.b1d7ec7b.css",
+    "main.js": "/neethusr.react.io/static/js/main.a7434ca6.js",
+    "static/js/787.f9285100.chunk.js": "/neethusr.react.io/static/js/787.f9285100.chunk.js",
+    "index.html": "/neethusr.react.io/index.html",
+    "main.b1d7ec7b.css.map": "/neethusr.react.io/static/css/main.b1d7ec7b.css.map",
+    "main.a7434ca6.js.map": "/neethusr.react.io/static/js/main.a7434ca6.js.map",
+    "787.f9285100.chunk.js.map": "/neethusr.react.io/static/js/787.f9285100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.a7434ca6.js"
+  ]
+}
